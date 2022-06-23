@@ -1,1 +1,14 @@
-succ it 3
+{
+  "response": [
+    {
+      "datetime": 1655919090,
+      "size": 1140861573,
+      "filehash": "2e1d3202444056978cf0324e7e1a0fe4",
+      "filename": "Awaken-2.8-Plasma-X2-OFFICIAL-Vanilla-1627-20220623.zip",
+      "id": "b806d981382c746b1c5674f3f6b27e965dbed8888beab37d93e2fdb08a0d3e46",
+      "romtype": "OFFICIAL",
+      "version": "2.8",
+      "url": "https://romdeveloper.chaitanya.workers.dev/0:/Awaken-2.8-Plasma-X2-OFFICIAL-Vanilla-1627-20220623.zip"
+    }
+  ]
+}
