@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1655919090,
-      "size": 1937012786,
-      "filehash": "3a9d18f70be338996a8a183b22f34c3c",
-      "filename": "Awaken-2.8-Plasma-X2-OFFICIAL-Gapps-2122-20220622.zip",
-      "id": "3bcb7c0d4c1da0428b81c7a99d92e482767f615681e72dbd34d81ccbbd730a91",
+      "size": 1941801369,
+      "filehash": "efa8d64d59e2a1e5c0f973a7b6d2c2ef",
+      "filename": "Awaken-2.8-Plasma-X2-OFFICIAL-Gapps-1832-20220623.zip",
+      "id": "46ae7c61b4a5a8e1fa0ec047fd22992f1c57ca513417666baa9c62a018e49b85",
       "romtype": "OFFICIAL",
       "version": "2.8",
-      "url": "https://romdeveloper.chaitanya.workers.dev/0:/Awaken-2.8-Plasma-X2-OFFICIAL-Gapps-2122-20220622.zip"
+      "url": "https://scipplec.jagrit.workers.dev/0:/Upstreamed%20kernel%20test/Awaken-2.8-Plasma-X2-OFFICIAL-Gapps-1832-20220623.zip"
     }
   ]
 }
