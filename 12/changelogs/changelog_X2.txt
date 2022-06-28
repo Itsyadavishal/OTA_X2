@@ -21,6 +21,10 @@ Device Changelog:
 • Added OTA support (Altho the updater only reboots you to recovery XD from there you have to flash update manually from /data/awaken_updates)
 • Thanks Retypolkg for Device Tree and Vendor Tree
 • Thanks Sergoops for Kernel Tree
-• Fix glitched video playback on apps like Instagram and Video in WebView (disabled vulkan for ui rendering)
+• Fix glitched video playback on apps like Instagram and Video in WebView
 • Enabled QuickTap
+• Fixed flickering issue on locking device or when device went to sleep
+• Updated Gps, vulkan, etc blobs
+• VOOC charging text on keyguard
+• Vulkan re-enabled with new graphics blobs
 • Misc changes
