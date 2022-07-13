@@ -1,30 +1,17 @@
 ===============
-22-06-2022
+10-07-2022
 ===============
 Source Changelog:
-• Add tunables for navbar layout
-• Add toggle for quick settings to pull down with one finger
-• Allow users to hide app from launcher
-• Bring back daily data usage in QS footer
-• Bring back Game Dashboard & Quick Tap
-• Introduced back gesture height settings
-• Introduced expanded volume panel
-• Implement burn-in protection for status/navbar
-• Update themed icons from Lawnicons
-• Fixed an issue where unlock sound played repeatedly
-• Fixed start padding for battery usage graph
-• Misc fixes and improvements
-
-Device Changelog:
-• Add wireguard kernel modules
-• Fix charging text hiding under fingerprint icons
-• Added OTA support (Altho the updater only reboots you to recovery XD from there you have to flash update manually from /data/awaken_updates)
-• Thanks Retypolkg for Device Tree and Vendor Tree
-• Thanks Sergoops for Kernel Tree
-• Fix glitched video playback on apps like Instagram and Video in WebView
-• Enabled QuickTap
-• Fixed flickering issue on locking device or when device went to sleep
-• Updated Gps, vulkan, etc blobs
-• VOOC charging text on keyguard
-• Vulkan re-enabled with new graphics blobs
-• Misc changes
+• Bring back drawables for statusbar icon toggles
+• Gmscompat upstream
+• Introduced GameSpace & nuked google game dashboard
+• Introduced our own wallpapers in styles and wallpapers
+• Introduced Oppo Sans & HarmonyOS Sans fonts
+• Introduced P404 Volume Panel
+• Updated APN from LineageOS
+• Update themed icons
+• Fixed bluetooth crash with battery widget
+• Fixed issue with linked notification volume
+• Fixed QS mobile icon disappearing on theme switch
+• Fixed suspicious spaces around mobile icons
+• Fixed some NPE
